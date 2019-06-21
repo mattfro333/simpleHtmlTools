@@ -1,0 +1,21 @@
+body {
+  font-family:fantasy;
+  background-image: url(Space.jpg);
+  color:yellow;
+}
+
+h1 {
+  text-align: center;
+}
+
+.image {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+ p {
+   font-size: 1.4em;
+   margin: 60px;
+ }
