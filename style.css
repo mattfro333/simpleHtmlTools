@@ -16,6 +16,11 @@ h1 {
   align-items: center;
 
 }
+.j {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .image {
   display:flex;
   align-items: center;
